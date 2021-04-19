@@ -11,4 +11,6 @@ _NestJS MicroService_ to get price (buy and sell), RSI, TypicalPrice and Spread 
 ---
 ## Installation
 
-yarn install 
+yarn install
+
+yarn start
